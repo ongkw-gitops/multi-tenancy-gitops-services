@@ -8,5 +8,5 @@ ibm-db2u-operator:
         channel: v1.1
         installPlanApproval: Automatic
         name: db2u-operator
-        source: ibm-db2uoperator-catalog
+        source: ibm-uoperator-catalog
         sourceNamespace: openshift-marketplace
